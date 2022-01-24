@@ -1,5 +1,7 @@
 # Alice-TheCrazyWorld
 ## [Demo Video](https://youtu.be/7yd0XRQmmp8)
+![image](https://user-images.githubusercontent.com/40749393/150721982-b9f074dc-f32d-4c5b-b6c5-8642e65bb30e.png)
+
 ## Background
 ### Chinese Version
 愛麗絲在樹下甦醒後發現，她發現來到了瘋帽子主宰的世界！必須滿足瘋帽子幫貓咪戴**三個帽子**的需求才能回家。
